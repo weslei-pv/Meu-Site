@@ -18,7 +18,7 @@ header {
     margin: 20px auto;
     padding: 20px;
     background-color: #998080;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px rgb(175, 106, 3);
 }
 
 .photo-space {
@@ -34,7 +34,7 @@ header {
 
 footer {
     background-color: #333;
-    color: #5a3e26;
+    color: #ffffff;
     text-align: center;
     padding: 10px 0;
     position: fixed;
